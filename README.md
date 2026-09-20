@@ -43,7 +43,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.gifer.com/6nOF.gif" width="80%"/>
+  <img src="https://i.gifer.com/6nOF.gif" width="50%"/>
 </div>
 
 ---
