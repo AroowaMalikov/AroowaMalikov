@@ -12,16 +12,16 @@
 </div>
 
 ---
+### About Me :
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Novice Python Developer from Russia.
 
-### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I'm studying Applied Mathematics and Computer Science at MEPhI and building a foundation in data analysis and machine learning.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Machine learning.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I practice on Stepik and sharpen my Git and Linux skills.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](dilimoferso@gmail.com)
 
 ---
 
