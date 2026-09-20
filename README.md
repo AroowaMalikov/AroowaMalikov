@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.gifer.com/fyrY.gif" width="100"/>
+  <img src="https://i.gifer.com/fyrY.gif" width="400"/>
   <div id="badges">
   <a href="https://t.me/aroowa_malikov">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
